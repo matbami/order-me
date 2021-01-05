@@ -1,20 +1,21 @@
 # my-order
 
-a [Sails v1](https://sailsjs.com) application
+An ordering system API
 
 
 ### Links
 
-+ [Sails framework documentation](https://sailsjs.com/get-started)
-+ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
++ [My API documentation can be found at](https://documenter.getpostman.com/view/5091328/TVzLpLZb)
+<!-- + [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
 + [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
 + [Community support options](https://sailsjs.com/support)
-+ [Professional / enterprise options](https://sailsjs.com/enterprise)
++ [Professional / enterprise options](https://sailsjs.com/enterprise) -->
 
 
 ### Version info
 
-This app was originally generated on Mon Jan 04 2021 16:51:42 GMT+0100 (West Africa Standard Time) using Sails v1.4.0.
+This app contains,
+Products,Orders and users
 
 <!-- Internally, Sails used [`sails-generate@2.0.1`](https://github.com/balderdashy/sails-generate/tree/v2.0.1/lib/core-generators/new). -->
 
