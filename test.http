@@ -1,0 +1,8 @@
+POST http://localhost:1337/api/v1/order/create HTTP/1.1
+content-type: application/json
+
+{
+    "name":"mpo",
+    "quantity": 12,
+    "price": 4
+}
